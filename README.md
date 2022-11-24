@@ -6,7 +6,8 @@
 
 ### Dependencias:
 
-- Se requiere la instalación de `exa` (utilidad de linea de comandos sustituto de `ls`)...
+- Se requiere de la instalación de [glow](https://github.com/charmbracelet/glow)
+- Se requiere de la instalación de [exa](https://github.com/ogham/exa) (utilidad de linea de comandos sustituto de `ls`)
 
 ### Modo de uso
 
